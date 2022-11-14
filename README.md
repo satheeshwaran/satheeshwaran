@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satheeshwaran
 - 👀 I’m interested in making usable software for humans
 - 🌱 I’m currently learning GCP, Blockchain
-- 💞️ I’m looking to collaborate on Open source projects, mobile applications, React, React native.
+- 💞️ I’m looking to collaborate on Open source projects, mobile applications, iOS, Android, React, React native, JavaScript, TypeScript.
 - 📫 satheesh4590@gmail.com
 
 <!---

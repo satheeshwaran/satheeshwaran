@@ -60,8 +60,11 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)
 ![AZURE Pipelines](https://img.shields.io/badge/-AZUREPIPELINES-000?&logo=azurepipelines)
 
-- ## Certifications:
-
+### Certifications:
+- ![[AZURE AI-900](https://learn.microsoft.com/en-us/users/SatheeshwaranJ-6119/credentials/6203AA9296F1DB17)](https://img.shields.io/badge/-AI900-000?&logo=microsoftazure)
+- ![[AZURE AZ-900](https://www.credly.com/badges/a6ba24e4-6eb4-4cc9-a09f-46f6ab419f31/linked_in_profile)](https://img.shields.io/badge/-AI900-000?&logo=microsoftazure)
+- ![[GCP](https://www.credential.net/56236442-ca56-4ba9-93bf-8def14e1fa87?key=a15bfe0ec753841b1956fcac0d3313c3286f4f03afb63c458758107ff0e400e3
+)](https://img.shields.io/badge/-GCP*ACE-000?&logo=googlecloud)
 
 
 <!---

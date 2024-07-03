@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @satheeshwaran
-- 👀 I’m interested in making usable software for humans
-- I have 12+ years of experience in developing mobile apps and services.
+- 👀 I’m interested in making usable software for humans.
+- I have 13 years of experience in developing mobile apps and services.
 - Experience implementing complex mobile banking solutions for financial institutions in various markets.
 - Expertise in mobile security, OWASP MSTG, MASVS, and RASP(Run time application self-protection) features.
-- Experience building passwordless login journeys with MFA with the help of services like Onespan, FIDO.
+- Experience building passwordless login journeys using MFA with the help of services like Onespan, and FIDO.
 - Mobile solution architecture, mobile-first approach, technical designs - LLD, HLD.
-- Experience in integrating 3rd party security solutions like GuardSquare (DexGuard, iXGuard) and Promon App shielding. Performed a case study of such tools in the market to help clients choose wisely.
-- 🌱 I’m currently learning Generative AI, Machine Learning, and Cloud technologies.
-- 💞️ I’m looking to collaborate on Open source projects, mobile applications, iOS, Android, React, React Native, JavaScript, and TypeScript.
+- Experience in integrating 3rd party security solutions like GuardSquare (DexGuard, iXGuard) and Promon App shielding.
 - I have hands-on experience with Google Cloud, Firebase, and Azure.
 - I have certifications in GCP and Azure.
+- 🌱 I’m currently learning Cloud, Cybersecurity & AI.
+- 💞️ I’m looking to collaborate on Open source projects, mobile applications, iOS, Android, React, React Native, JavaScript, and TypeScript.
 
  ### Programming languages:
 &emsp;
@@ -52,7 +52,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
-### SRE & DevOps:
+### Cloud:
 &emsp;
 ![AZURE](https://img.shields.io/badge/-AZURE-000?&logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/-GoogleCloud-000?&logo=googlecloud)

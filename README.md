@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @satheeshwaran
 - 👀 I’m interested in making usable software for humans.
-- I have 13 years of experience in developing mobile apps and services.
+- I have 14 years of experience in developing mobile apps and services.
 - Experience implementing complex mobile banking solutions for financial institutions in various markets.
-- Expertise in mobile security, OWASP MSTG, MASVS, and RASP(Run time application self-protection) features.
-- Experience building passwordless login journeys using MFA with the help of services like Onespan, and FIDO.
+- Expertise in mobile security, OWASP MSTG, MASVS, and RASP(run-time application self-protection) features.
+- Experience building passwordless login journeys using MFA with the help of services like Onespan and FIDO.
 - Mobile solution architecture, mobile-first approach, technical designs - LLD, HLD.
 - Experience in integrating 3rd party security solutions like GuardSquare (DexGuard, iXGuard) and Promon App shielding.
 - I have hands-on experience with Google Cloud, Firebase, and Azure.
 - I have certifications in GCP and Azure.
-- 🌱 I’m currently learning Cloud, Cybersecurity & AI.
-- 💞️ I’m looking to collaborate on Open source projects, mobile applications, iOS, Android, React, React Native, JavaScript, and TypeScript.
+- 🌱 I’m currently learning AI/ML, Cloud & Cyber Security.
+- 💞️ I’m looking to collaborate on open-source projects, mobile applications, iOS, Android, React, React Native, JavaScript, and TypeScript.
 
  ### Programming languages:
 &emsp;

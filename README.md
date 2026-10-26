@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @satheeshwaran
 - 👀 I’m interested in making usable software for humans.
-- I have 14 years of experience in developing mobile apps and services.
+- I have 15+ years of experience in developing mobile apps and services.
 - Experience implementing complex mobile banking solutions for financial institutions in various markets.
 - Expertise in mobile security, OWASP MSTG, MASVS, and RASP(run-time application self-protection) features.
 - Experience building passwordless login journeys using MFA with the help of services like Onespan and FIDO.
 - Mobile solution architecture, mobile-first approach, technical designs - LLD, HLD.
-- Experience in integrating 3rd party security solutions like GuardSquare (DexGuard, iXGuard) and Promon App shielding.
+- Experience in integrating 3rd-party security solutions like GuardSquare (DexGuard, iXGuard) and Promon App shielding.
 - I have hands-on experience with Google Cloud, Firebase, and Azure.
 - I have certifications in GCP and Azure.
-- 🌱 I’m currently learning AI/ML, Cloud & Cyber Security.
+- 🌱 I’m currently learning AI/ML, Cloud & CyberSecurity.
 - 💞️ I’m looking to collaborate on open-source projects, mobile applications, iOS, Android, React, React Native, JavaScript, and TypeScript.
 
  ### Programming languages:
@@ -28,7 +28,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 
 ### Misc tools:
-&emsp;
+
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
@@ -42,18 +42,17 @@
 
 
 ### Services & Frameworks: 
-&emsp;
+
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 
-
 ### Databases:
-&emsp;
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 ### Cloud:
-&emsp;
+
 ![AZURE](https://img.shields.io/badge/-AZURE-000?&logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/-GoogleCloud-000?&logo=googlecloud)
 ![Github Actions](https://img.shields.io/badge/-GithubActions-000?&logo=githubactions)
@@ -63,8 +62,8 @@
 ### Certifications:
 - ![[AZURE AI-900](https://learn.microsoft.com/en-us/users/SatheeshwaranJ-6119/credentials/6203AA9296F1DB17)](https://img.shields.io/badge/-AI900-000?&logo=microsoftazure)
 - ![[AZURE AZ-900](https://www.credly.com/badges/a6ba24e4-6eb4-4cc9-a09f-46f6ab419f31/linked_in_profile)](https://img.shields.io/badge/-AZ900-000?&logo=microsoftazure)
-- ![[GCP](https://www.credential.net/56236442-ca56-4ba9-93bf-8def14e1fa87?key=a15bfe0ec753841b1956fcac0d3313c3286f4f03afb63c458758107ff0e400e3
-)](https://img.shields.io/badge/-GCP*ACE-000?&logo=googlecloud)
+- ![[GITHUB GH-300]([https://www.credly.com/badges/a6ba24e4-6eb4-4cc9-a09f-46f6ab419f31/linked_in_profile](https://learn.microsoft.com/api/credentials/share/en-us/SatheeshwaranJ-6119/12D7B0A4BD084A25?sharingId))](https://img.shields.io/badge/-GH300-000?&logo=microsoftazure)
+
 
 
 <!---
